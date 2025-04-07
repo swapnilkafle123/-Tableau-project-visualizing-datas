@@ -7,6 +7,12 @@ From this we visualized,
 
 
 Which Countries have the highest meat consumption.
+
+
 Types of meat and their consumption over a period of time.
+
+
 Which meat has the higest consumption in the world.
+
+
 Countries and their meat preferences.
